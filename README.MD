@@ -49,7 +49,7 @@ Todos os prompts utilizados para gerar título, sumário e conteúdo estão docu
 ### 2. Artigo/Reflexão (Requisito Opcional, mas Recomendado)
 Aqui você deve inserir o link para seu artigo no LinkedIn, Medium, etc., detalhando o processo:
 
-[LINK PARA SEU ARTIGO OU REFLEXÃO SOBRE O PROJETO](LINK_PARA_SEU_ARTIGO)
+[LINK PARA SEU ARTIGO OU REFLEXÃO SOBRE O PROJETO](https://www.linkedin.com/posts/andre--alves-ti_o-alquimista-de-prompts-mapeando-a-est%C3%A9tica-activity-7396691624568963072-Nmv_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALEShkBIt60gXUuCoFx7YrZ1MGkyzqE-NY)
 
 ---
 *Este repositório é uma evolução do projeto base, demonstrando o uso avançado de IA na criação de portfólio.*
