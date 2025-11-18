@@ -222,3 +222,35 @@ Para aprimorar o fotorealismo, use termos técnicos que definem a qualidade da c
 * **Abertura/Aperture:** Controla a luz e a profundidade (`f/1.4 aperture` para o máximo de desfoque).
 
 Ao dominar esses termos, você não apenas descreve uma imagem, mas define tecnicamente como ela será *fotografada* pela IA.
+
+---
+
+## 8. Conteúdo do Capítulo 5
+
+**Prompt de Geração:**
+Gere o conteúdo para o Capítulo 5, "Alquimia Avançada: Combinando Estilos e Parâmetros", para o e-book "O Alquimista de Prompts". O tom deve ser criativo e prático. Aborde os subcapítulos: O Conceito de Prompt Blending (mistura de estilos), A função dos pesos (::) para o equilíbrio criativo, e Otimizando a consistência de personagens e ambientes. Inclua exemplos de como usar o peso e como otimizar a consistência.
+
+**Texto Gerado (Capítulo 5):**
+
+# Capítulo 5: Alquimia Avançada: Combinando Estilos e Parâmetros
+
+**O Mestre Alquimista Mistura, Pesa e Refina**
+
+O verdadeiro curador de prompts não apenas lista ingredientes; ele os pesa com precisão. O nível avançado de domínio em *Midjourney* reside na arte de fundir ideias contrastantes e no uso cirúrgico de parâmetros para controlar o resultado.
+
+**O Conceito de Prompt Blending (Fusão de Estilos)**
+
+A fusão de estilos é a prática de combinar referências que, à primeira vista, parecem opostas – por exemplo, a iluminação de um mestre renascentista com a estética de um jogo cyberpunk. O segredo é equilibrar a potência de cada referência. O resultado é sempre um estilo novo e original que carrega a marca do seu gênio criativo.
+
+**A Função dos Pesos (::) para o Equilíbrio Criativo**
+
+Os pesos (`::`) são a balança do Alquimista. Eles permitem que você determine a importância de cada termo na sua fórmula:
+* `cat::2 robot::1` (A palavra 'cat' será duas vezes mais importante que 'robot').
+* `low poly::3 photorealistic::1` (Garante que a estética "low poly" domine, mas com um toque de realismo).
+O peso é a sua ferramenta para refinar a composição e evitar que o estilo menos desejado se sobressaia.
+
+**Otimizando a Consistência**
+
+Manter a mesma estética, personagem ou ambiente em várias imagens é um desafio de mestre. O peso ajuda, mas a técnica mais avançada é o uso de **seeds** (`--seed <número>`) para forçar a IA a começar o processo de criação a partir do mesmo ponto inicial. Outra técnica é a inclusão de imagens de referência na sua criação. Ao dominar a consistência, você passa de criador de imagens únicas a construtor de mundos.
+
+A partir deste ponto, o limite é o quão longe você se atreve a ir. Sua jornada como Alquimista está completa: você tem o domínio do *foco*, da *luz*, da *referência* e da *precisão*.
