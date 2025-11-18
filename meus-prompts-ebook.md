@@ -111,3 +111,38 @@ O termo 'Composição' (ou um sinônimo) deve ser usado para refinar o enquadram
 **Profundidade de Campo e Foco**
 
 A *Profundidade de Campo* (`Depth of Field`) é o seu controle sobre o que está nítido e o que está borrado (*Bokeh*). Prompts como `shallow depth of field` ou `bokeh effect` isolam o assunto, eliminando distrações e conferindo um toque profissional de lente cara. Você não apenas cria uma imagem, você foca a atenção.
+
+---
+
+## 5. Conteúdo do Capítulo 2
+
+**Prompt de Geração:**
+Gere o conteúdo para o Capítulo 2, "Domínio da Luz e da Atmosfera", para o e-book "O Alquimista de Prompts". O tom deve ser criativo e prático. Aborde os subcapítulos: Anatomia de um Prompt de Iluminação, Horas Mágicas (Golden Hour, Blue Hour), Efeitos Especiais de Luz (Rim Light, Lens Flare) e A Paleta de Cores/Efeito no Sentimento. Inclua exemplos de palavras-chave para prompts.
+
+**Texto Gerado (Capítulo 2):**
+
+# Capítulo 2: Domínio da Luz e da Atmosfera
+
+**A Luz não Apenas Ilumina; Ela Define o Drama**
+
+A luz é o pincel do Alquimista. Em *Midjourney*, a iluminação não é um detalhe; é o prompt que dita a emoção, o foco e a atmosfera da cena. Um único adjetivo pode transformar uma imagem plana em uma obra-prima dramática.
+
+**Anatomia de um Prompt de Iluminação**
+
+Você deve sempre especificar a **Qualidade**, a **Cor** e a **Direção** da luz. Não diga apenas "luz brilhante". Seja específico: `dramatic volumetric light, cinematic studio lighting, warm backlighting`.
+
+**Horas Mágicas: Golden Hour e Blue Hour**
+
+Estas são as receitas de iluminação mais poderosas.
+* **Golden Hour:** Adiciona tons quentes, suaves e longas sombras. Perfeito para cenas de heroísmo, nostalgia ou beleza natural (`golden hour light, warm glow`).
+* **Blue Hour:** O momento entre o dia e a noite. Traz tons azuis profundos, melancólicos e frios. Ideal para mistério, ficção científica noturna ou serenidade (`deep blue hour lighting, mysterious ambient light`).
+
+**Efeitos Especiais de Luz: O Toque do Diretor**
+
+Para ir além, use efeitos que simulam técnicas de estúdio:
+* **Rim Light (Luz de Contorno):** Cria um halo de luz ao redor do objeto principal, separando-o do fundo e adicionando profundidade (`rim lighting, subject backlit`).
+* **Lens Flare:** Simula o brilho de luz entrando na lente da câmera. Adiciona um toque cinematográfico e imperfeito (`subtle lens flare, anamorphic bokeh`).
+
+**A Paleta de Cores e o Sentimento**
+
+A luz e a cor estão intrinsecamente ligadas. Use palavras que definem a paleta para reforçar o sentimento: `moody colors`, `pastel palette`, `high contrast black and white`. Ao dominar a luz, você não apenas clareia a imagem, mas acende a alma dela.
