@@ -146,3 +146,41 @@ Para ir além, use efeitos que simulam técnicas de estúdio:
 **A Paleta de Cores e o Sentimento**
 
 A luz e a cor estão intrinsecamente ligadas. Use palavras que definem a paleta para reforçar o sentimento: `moody colors`, `pastel palette`, `high contrast black and white`. Ao dominar a luz, você não apenas clareia a imagem, mas acende a alma dela.
+
+---
+
+## 6. Conteúdo do Capítulo 3
+
+**Prompt de Geração:**
+Gere o conteúdo para o Capítulo 3, "Estilos e Referências (Códices da Criação)", para o e-book "O Alquimista de Prompts". O tom deve ser criativo e prático. Aborde os subcapítulos: A Importância do Artista de Referência (exemplifique com Vermeer e Ghibli), Estilos de Mídia (Fotorealismo, 3D Render) e o Efeito Surpreendente dos Prompts de Textura e Material. Inclua exemplos de palavras-chave para prompts.
+
+**Texto Gerado (Capítulo 3):**
+
+# Capítulo 3: Estilos e Referências (Códices da Criação)
+
+**A História da Arte como Seu Banco de Dados Estético**
+
+Um Alquimista não começa do zero; ele usa o conhecimento acumulado pelos mestres. Em *Midjourney*, a menção a um artista ou estilo não é um mero *tag*; é um **Códice**, carregado com décadas ou séculos de conhecimento visual sobre paleta de cores, composição e profundidade.
+
+**A Importância do Artista de Referência**
+
+Use artistas para injetar um estilo artístico específico:
+* **Johannes Vermeer:** Adiciona luz suave de janela, intimidade e uma paleta de cores discreta (`Vermeer style, soft window light`).
+* **Studio Ghibli:** Injeta uma sensação de fantasia, cores pastéis ricas e detalhes em aquarela, remetendo à animação japonesa (`Studio Ghibli aesthetic, fantasy watercolor`).
+
+Sua referência deve ser específica e proposital.
+
+**Estilos de Mídia: Defina o Seu Universo**
+
+A IA precisa saber se a imagem deve parecer uma foto, um desenho ou um modelo digital.
+* **Fotorealismo:** A busca pela perfeição realista. Use termos de câmera e de alta resolução (`photorealistic, 8k resolution, captured with a Canon EOS R5`).
+* **3D Render:** Cria o visual de modelos digitais perfeitos. Ideal para design de produto ou arquitetura futurista (`unreal engine render, octane render, smooth surfaces`).
+
+**O Efeito Surpreendente dos Prompts de Textura e Material**
+
+Não se esqueça dos detalhes táteis. A textura define a qualidade final da imagem e o realismo percebido:
+* `cracked oil on canvas` (Adiciona profundidade e idade à pintura).
+* `matte glass` (Para um visual moderno, sem brilho).
+* `velvet fabric` (Para riqueza e luxo em tecidos).
+
+Ao misturar referências de artistas com estilos de mídia e texturas, você cria *blends* de prompts inéditas, estabelecendo o seu próprio caminho como curador visual.
