@@ -14,7 +14,7 @@ O e-book ensina o leitor a dominar a composição, a luz e as referências artí
 
 O e-book finalizado (PDF) e pronto para leitura está disponível para download:
 
-[DOWNLOAD DO E-BOOK AQUI (PDF)] (LINK_DIRETO_PARA_O_PDF)
+[DOWNLOAD DO E-BOOK AQUI (PDF)] (https://github.com/angoal2025/ebook-ia-desafio-dio/blob/main/O_Alquimista_de_Prompts_Andre_Alves.pdf)
 
 ---
 
