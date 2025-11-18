@@ -33,7 +33,40 @@ Usando o título "O Alquimista de Prompts: Mapeando a Estética no Midjourney", 
 **Prompt de Geração:**
 Escreva a introdução (cerca de 300 palavras) para um e-book intitulado "O Alquimista de Prompts: Mapeando a Estética no Midjourney". O tom deve ser criativo, inspirador e chamar o leitor a ser um "curador digital". Aborde os três subcapítulos: 1. Por que ir além do /imagine básico? 2. O papel do curador na IA. 3. Entendendo a anatomia de um prompt de sucesso. O texto deve ser envolvente e prometer revelar a "linguagem secreta da estética".
 
-**Texto Gerado (Introdução):**
+---
+
+## 4. Conteúdo do Capítulo 1
+
+**Prompt de Geração:**
+Gere o conteúdo para o Capítulo 1, "A Arte da Composição: Moldando o Olhar do Leitor", para o e-book "O Alquimista de Prompts". O texto deve ser criativo e prático, abordando os subcapítulos: Aspect Ratio, Regra dos Terços/Enquadramento, o uso da palavra 'Composição' no prompt, e Profundidade de Campo. Inclua exemplos práticos de como o usuário pode aplicar esses termos. Use a linguagem do curador digital.
+
+**Texto Gerado (Capítulo 1):**
+
+# Capítulo 1: A Arte da Composição: Moldando o Olhar do Leitor
+
+**A Composição é o Esqueleto da Imagem**
+
+Antes da cor, da luz ou do estilo, existe a **Composição**. É o mapa que guia o olhar do observador. Se a IA é a orquestra, você é o regente, definindo onde cada elemento deve tocar.
+
+**Aspect Ratio: A Primeira Decisão Estética**
+
+O *Aspect Ratio* (`--ar`) não é apenas sobre o tamanho; é sobre a sensação. O clássico **16:9** remete a cinema, sendo ideal para paisagens épicas. O **4:5** ou **2:3** é vertical, chamando a atenção para retratos ou capas de revista, conferindo uma sensação de proximidade. Decidir seu `--ar` é o primeiro ato de curadoria.
+
+**Regra dos Terços e o Enquadramento**
+
+Midjourney, por padrão, tende a centralizar. Para fugir do óbvio, você deve *empurrar* a cena. Use termos como: `off-center`, `golden ratio`, ou `rule of thirds` no seu prompt. Isso informa à IA que o objeto principal deve ser posicionado fora do centro, criando tensão e interesse.
+
+**O Poder da Palavra-chave 'Composição'**
+
+O termo 'Composição' (ou um sinônimo) deve ser usado para refinar o enquadramento:
+* `close-up shot` (Intimidade)
+* `wide-angle view` (Contexto)
+* `dutch angle` (Tensão/Drama)
+* `establishing shot` (Visão geral da cena)
+
+**Profundidade de Campo e Foco**
+
+A *Profundidade de Campo* (`Depth of Field`) é o seu controle sobre o que está nítido e o que está borrado (*Bokeh*). Prompts como `shallow depth of field` ou `bokeh effect` isolam o assunto, eliminando distrações e conferindo um toque profissional de lente cara. Você não apenas cria uma imagem, você foca a atenção.
 
 # O Manifesto do Alquimista
 
