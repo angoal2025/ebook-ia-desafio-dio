@@ -184,3 +184,41 @@ Não se esqueça dos detalhes táteis. A textura define a qualidade final da ima
 * `velvet fabric` (Para riqueza e luxo em tecidos).
 
 Ao misturar referências de artistas com estilos de mídia e texturas, você cria *blends* de prompts inéditas, estabelecendo o seu próprio caminho como curador visual.
+
+---
+
+## 7. Conteúdo do Capítulo 4
+
+**Prompt de Geração:**
+Gere o conteúdo para o Capítulo 4, "Câmera e Lentes: O Olhar Cinematográfico", para o e-book "O Alquimista de Prompts". O tom deve ser criativo e prático, focando em como simular equipamentos fotográficos no Midjourney. Aborde os subcapítulos: Simulação de Lentes (85mm, grande angular), Perspectivas que Enganam (Câmera Aérea, Tilt-Shift, Macro) e Vocabulário da Fotografia (ISO, Shutter Speed). Inclua exemplos de palavras-chave para prompts.
+
+**Texto Gerado (Capítulo 4):**
+
+# Capítulo 4: Câmera e Lentes: O Olhar Cinematográfico
+
+**Transforme a IA em Sua Câmera Pessoal**
+
+Um artista visual não apenas desenha a cena; ele escolhe a lente com a qual ela será vista. Em Midjourney, você é o diretor de fotografia, e pode simular qualquer equipamento, alterando a profundidade, a perspectiva e o humor da imagem.
+
+**Simulação de Lentes: O Poder Focal**
+
+A escolha da lente dita a intimidade e a distorção da cena.
+* **Lente Prime (85mm, 50mm):** São as favoritas para retratos, conferindo uma profundidade natural e uma separação suave entre o sujeito e o fundo (`shot on 85mm prime lens, beautiful bokeh`).
+* **Lente Grande Angular (Wide-Angle):** Ideal para paisagens e arquitetura, pois exagera a perspectiva e cria uma sensação de vastidão (`wide-angle lens, cinematic scale`).
+
+**Perspectivas que Enganam: O Ponto de Vista do Curador**
+
+O ponto de vista transforma a narrativa. Se não especificar, a IA tende a usar um ângulo reto (nível dos olhos). Force uma perspectiva criativa:
+* `overhead view` (Vista de cima, como um mapa tático).
+* `worms-eye view` (Vista de baixo, tornando o sujeito monumental).
+* `tilt-shift effect` (Faz o mundo parecer um modelo em miniatura, adicionando um toque lúdico).
+* `macro photography` (Revela o universo microscópico e detalhes extremos).
+
+**O Vocabulário da Fotografia**
+
+Para aprimorar o fotorealismo, use termos técnicos que definem a qualidade da captura:
+* **ISO:** Define o ruído digital ou a granulação (`low ISO, clean photo` ou `high ISO grain, grainy film`).
+* **Shutter Speed (Velocidade do Obturador):** Controla o movimento (`fast shutter speed` para congelar o movimento ou `slow shutter speed, motion blur` para rastro).
+* **Abertura/Aperture:** Controla a luz e a profundidade (`f/1.4 aperture` para o máximo de desfoque).
+
+Ao dominar esses termos, você não apenas descreve uma imagem, mas define tecnicamente como ela será *fotografada* pela IA.
