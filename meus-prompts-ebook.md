@@ -27,6 +27,7 @@ Usando o título "O Alquimista de Prompts: Mapeando a Estética no Midjourney", 
 * **Conclusão: Sua Jornada como Curador**
 
 ---
+
 ## 3. Conteúdo da Introdução
 
 **Prompt de Geração:**
